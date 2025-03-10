@@ -1,0 +1,23 @@
+# This is a sample hosts file
+
+
+
+127.0.0.1 localhost
+
+::1         localhost
+
+
+
+# Your local network hosts
+
+192.168.1.1  router
+
+192.168.1.10  my-computer
+
+
+
+# Website blocking example
+
+0.0.0.0     www.example-ad-site.com
+
+0.0.0.0     ads.another-site.com
